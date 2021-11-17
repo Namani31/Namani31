@@ -1,4 +1,6 @@
-### Hi there 👋
+# YunJi Kim
+
+## Hi there 👋
 - 💻 I want to be an Android app developer.
 - 🇰🇷 I'm studying in Korea.
 
