@@ -3,8 +3,9 @@
 - 🇰🇷 I'm studying in Korea.
 
 ### How to reach me? 😎
-- Talking Yunji's Naver email [![ Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kwg531@naver.com)](mailto:kwg531@naver.com)
-- Talking Yunji's Gmail [![ Badge](https://img.shields.io/badge/Gamil-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyunji9272@gmail.com)](kimyunji9272@gmail.com)
+- Talking Potatos's Naver email [![ Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kwg531@naver.com)](mailto:kwg531@naver.com)
+- Talking Potatos's Naver blog [![ Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:https://blog.naver.com/kwg531)](mailto:https://blog.naver.com/kwg531)
+- Talking Potatos's Gmail [![ Badge](https://img.shields.io/badge/Gamil-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyunji9272@gmail.com)](kimyunji9272@gmail.com)
 
 ### The fields that I'm interested in
 - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
