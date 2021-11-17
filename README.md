@@ -15,3 +15,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
+
+### 🏆️ Tech Stack 🏆️
+![trophy](https://github-profile-trophy.vercel.app/?username=yunjikim-31)
+![yunjikim-31's github stats](https://github-readme-stats.vercel.app/api?username=yunjikim-31&show_icons=true)
+[![yunjikim-31's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjikim-31&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yunjikim-31)
