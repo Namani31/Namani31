@@ -8,7 +8,7 @@
 <br><br><br>
             
 ### ✨ Blog ✨
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=FF9E0F">
+<a href="https://namaniflow.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FF9E0F&link=https://namaniflow.tistory.com/"/></a> 
 <br><br><br>
             
 ### 💌Email💌
