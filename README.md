@@ -1,11 +1,12 @@
 # YunJi Kim
 
 ## Hi there 👋
-- 💻 I want to be an Android app developer.
-- 🇰🇷 I'm studying in Korea.
+- 🇰🇷 I'm a university student majoring in computer science in Korea. 
+- 💻 I want to become a web backend developer
+- 💌 I enjoy writing and keeping records.
 
 ### How to reach me? 😎
-- Talking Potatos's Naver email [![ Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kwg531@naver.com)](mailto:kwg531@naver.com)
+- Namani's Naver email [![ Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kwg531@naver.com)](mailto:kwg531@naver.com)
 - Talking Potatos's Naver blog [![ Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:https://blog.naver.com/kwg531)](mailto:https://blog.naver.com/kwg531)
 - Talking Potatos's Gmail [![ Badge](https://img.shields.io/badge/Gamil-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyunji9272@gmail.com)](kimyunji9272@gmail.com)
 
