@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList==1,3,18,27&height=300&section=header&text=Namani&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList==1,3,18,27&height=200&section=header&text=Namani&fontSize=90)
 
 //Java
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
