@@ -9,7 +9,7 @@
             
 ### ✨ SNS ✨
 <a href="https://namaniflow.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=FF9E0F&link=https://namaniflow.tistory.com/"/></a> 
-<a href="mailto:kwg531@naver.com"><img src="https://img.shields.io/badge/kimyunji9272@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:kimyunji9272@gmail.com"/></a>
+<a href="mailto:kwg531@naver.com"><img src="https://img.shields.io/badge/kwg531@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:kimyunji9272@gmail.com"/></a>
 <br><br><br>
 
 ### 💻 Tech Stack 💻
