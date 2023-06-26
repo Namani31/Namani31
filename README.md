@@ -18,4 +18,3 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=namani133)](https://solved.ac/namani133)
 <br>
-[![Namani's GitHub stats](https://github-readme-stats.vercel.app/api?username=namani31)]([https://github.com/Namani31/github-readme-stats)
