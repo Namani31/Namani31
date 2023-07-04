@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList==1,3,18,27&height=230&section=header&text=Namani&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList==1,3,18,27&height=180&section=header&text=Namani&fontSize=50)
 <br>
 
 <div align="center">
@@ -18,4 +18,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=namani133)](https://solved.ac/namani133)
 <br>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList==1,3,18,27&height=230&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList==1,3,18,27&height=180&section=footer)
