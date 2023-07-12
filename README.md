@@ -1,7 +1,7 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList==1,3,18,27&height=180&section=header&text=Namani&fontSize=50)
 <br>
-
-<div align="center">
             
 ### 👋 Welcome to Namani's github profile ! 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNamani31&count_bg=%23FFABC4&title_bg=%23849DD9&icon=&icon_color=%23FFABC4&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
